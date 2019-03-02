@@ -1,0 +1,18 @@
+.btn-green-clearsoft {
+    background-color: #add68e;
+    color: #FFF !important;
+}
+
+#footer {
+    /* font-size: 14px; */
+    /* color: rgba(255,255,255,0.6); */
+    /* display: block; */
+    /* background: #313131; */
+    background: -moz-linear-gradient(top, #6d8f53 0%, #394b2b 100%);
+    /* background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1a1d2b), color-stop(100%, #313131)); */
+    /* background: -webkit-linear-gradient(top, #555555 0%, #313131 100%); */
+    background: -o-linear-gradient(top, #6d8f53 0%, #394b2b 100%);
+    background: -ms-linear-gradient(top, #6d8f53 0%, #394b2b 100%);
+    background: linear-gradient(to bottom, #6d8f53 0%,#394b2b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#555555', endColorstr='#313131',GradientType=0 );
+}
